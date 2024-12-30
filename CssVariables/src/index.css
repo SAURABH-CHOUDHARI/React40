@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cloass{
+  background-color: 255 2555 255;
+}
